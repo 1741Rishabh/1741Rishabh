@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rishabh Kumar
-- 👀 I’m interested programming
-- 🌱 I’m currently ML
-- 💞️ I’m looking to collaborate on Web project
+-
 - 📫 u can contact me  1741rishabh@gmail.com
 
 <!---
